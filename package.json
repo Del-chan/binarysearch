@@ -1,0 +1,25 @@
+{
+  "name": "binarysearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "test": "./node_modules/.bin/jasmine-node spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Del-sama/binarysearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Del-sama/binarysearch/issues"
+  },
+  "homepage": "https://github.com/Del-sama/binarysearch#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "jasmine-node": "^1.14.5",
+    "mocha": "^3.2.0"
+  }
+}
